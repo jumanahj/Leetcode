@@ -12,7 +12,8 @@ class Solution(object):
             else:
                 cnt=1
             if cnt > max_cnt:
-                max_cnt=cnt           
+                max_cnt=cnt  
+                         
         return max_cnt
 
         
