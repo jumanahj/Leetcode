@@ -7,10 +7,9 @@ class Solution(object):
         """
         
         res=list(set(nums1)&set(nums2))
-        res.sort()
         if len(res)==0:
             return -1
         else :
-            return res[0]
+            return min(res)
 
         
