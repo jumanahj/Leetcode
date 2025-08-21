@@ -4,15 +4,17 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        max_pow=1
+        max_cnt=1
         cnt=1
 
-        for i in range(1,len(s)):
-            if s[i]== s[i-1]:
+        for i in range(0,len(s)-1):
+            if s[i]== s[i+1]:
                 cnt+=1
             else:
                 cnt=1
-            max_pow=max(max_pow,cnt)
-        return max_pow
+            if cnt > max_cnt:
+                max_cnt=cnt
+            
+        return max_cnt
 
         
