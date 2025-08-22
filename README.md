@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jumanahj/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jumanahj/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jumanahj/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jumanahj/Leetcode/tree/master/0290-word-pattern) |
 | [1542-consecutive-characters](https://github.com/jumanahj/Leetcode/tree/master/1542-consecutive-characters) |
 ## Array
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jumanahj/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jumanahj/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
