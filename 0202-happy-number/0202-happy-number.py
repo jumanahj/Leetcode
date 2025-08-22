@@ -5,8 +5,6 @@ class Solution(object):
         :rtype: bool
         """
         vis=set()
-        if n==1:
-            return True
         while n!=1 and n not in vis:
             vis.add(n)
             sumA=0
