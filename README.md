@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jumanahj/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jumanahj/Leetcode/tree/master/0290-word-pattern) |
 | [1542-consecutive-characters](https://github.com/jumanahj/Leetcode/tree/master/1542-consecutive-characters) |
+| [1651-shuffle-string](https://github.com/jumanahj/Leetcode/tree/master/1651-shuffle-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jumanahj/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2391-strong-password-checker-ii](https://github.com/jumanahj/Leetcode/tree/master/2391-strong-password-checker-ii) |
 ## Array
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1651-shuffle-string](https://github.com/jumanahj/Leetcode/tree/master/1651-shuffle-string) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jumanahj/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jumanahj/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
