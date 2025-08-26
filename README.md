@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jumanahj/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jumanahj/Leetcode/tree/master/0290-word-pattern) |
 | [1542-consecutive-characters](https://github.com/jumanahj/Leetcode/tree/master/1542-consecutive-characters) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/jumanahj/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2391-strong-password-checker-ii](https://github.com/jumanahj/Leetcode/tree/master/2391-strong-password-checker-ii) |
 ## Array
 |  |
