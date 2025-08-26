@@ -1,7 +1,8 @@
 class Solution:
     def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
         max_width=0
-        max_area=0     
+        max_area=0
+        
         for l, w in dimensions:
             curr= (l*l)+ (w*w)
             area = l*w 
