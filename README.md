@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/jumanahj/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/jumanahj/Leetcode/tree/master/1651-shuffle-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jumanahj/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2391-strong-password-checker-ii](https://github.com/jumanahj/Leetcode/tree/master/2391-strong-password-checker-ii) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/jumanahj/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Array
 |  |
 | ------- |
