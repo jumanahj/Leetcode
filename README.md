@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jumanahj/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/jumanahj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/jumanahj/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/jumanahj/Leetcode/tree/master/0482-license-key-formatting) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/jumanahj/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1542-consecutive-characters](https://github.com/jumanahj/Leetcode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/jumanahj/Leetcode/tree/master/1651-shuffle-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/jumanahj/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
