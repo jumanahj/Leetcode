@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jumanahj/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/jumanahj/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/jumanahj/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/jumanahj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jumanahj/Leetcode/tree/master/0441-arranging-coins) |
