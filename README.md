@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jumanahj/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jumanahj/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jumanahj/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/jumanahj/Leetcode/tree/master/0482-license-key-formatting) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jumanahj/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jumanahj/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/jumanahj/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/jumanahj/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
