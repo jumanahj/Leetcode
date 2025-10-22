@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/jumanahj/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jumanahj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/jumanahj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jumanahj/Leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/jumanahj/Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/jumanahj/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
