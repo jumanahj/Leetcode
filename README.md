@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/jumanahj/Leetcode/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
@@ -215,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/jumanahj/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
