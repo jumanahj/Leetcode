@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jumanahj/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/jumanahj/Leetcode/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jumanahj/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Simulation
 |  |
 | ------- |
