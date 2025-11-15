@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jumanahj/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/jumanahj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jumanahj/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jumanahj/Leetcode/tree/master/0283-move-zeroes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jumanahj/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/jumanahj/Leetcode/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 ## Simulation
