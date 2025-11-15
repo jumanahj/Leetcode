@@ -4,7 +4,6 @@ class Solution:
         left=0
         right=len(nums)-1
         op=0
-
         while left < right :
             s=nums[left]+nums[right]
             if s==k:
