@@ -233,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/jumanahj/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0392-is-subsequence) |
+## Database
+|  |
+| ------- |
+| [1211-queries-quality-and-percentage](https://github.com/jumanahj/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
