@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jumanahj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/jumanahj/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/jumanahj/Leetcode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/jumanahj/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/jumanahj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jumanahj/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jumanahj/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/jumanahj/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/jumanahj/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/jumanahj/Leetcode/tree/master/0292-nim-game) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jumanahj/Leetcode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
