@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/jumanahj/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/jumanahj/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1661-average-time-of-process-per-machine](https://github.com/jumanahj/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
