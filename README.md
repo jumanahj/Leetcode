@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jumanahj/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jumanahj/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1319-unique-number-of-occurrences](https://github.com/jumanahj/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jumanahj/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jumanahj/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jumanahj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jumanahj/Leetcode/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jumanahj/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jumanahj/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/jumanahj/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/jumanahj/Leetcode/tree/master/1642-water-bottles) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jumanahj/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jumanahj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jumanahj/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/jumanahj/Leetcode/tree/master/1448-maximum-69-number) |
 ## Tree
 |  |
