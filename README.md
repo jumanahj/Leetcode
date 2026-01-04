@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jumanahj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2578-split-with-minimum-sum](https://github.com/jumanahj/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jumanahj/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jumanahj/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/jumanahj/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/jumanahj/Leetcode/tree/master/1642-water-bottles) |
+| [2578-split-with-minimum-sum](https://github.com/jumanahj/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jumanahj/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jumanahj/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jumanahj/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/jumanahj/Leetcode/tree/master/1448-maximum-69-number) |
+| [2578-split-with-minimum-sum](https://github.com/jumanahj/Leetcode/tree/master/2578-split-with-minimum-sum) |
 ## Tree
 |  |
 | ------- |
