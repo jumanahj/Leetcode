@@ -1,5 +1,11 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
+        res=0
+        for i in nums:
+            res^=i
+        return res
+
+        '''
         n=len(nums)
         nums.sort()
         i=0
@@ -9,7 +15,7 @@ class Solution:
             else :
                 return nums[i]
         return nums[-1]
-        '''
+
         from typing import List
 
 class Solution:
@@ -19,4 +25,3 @@ class Solution:
             result ^= num
         return result
         '''
-        
