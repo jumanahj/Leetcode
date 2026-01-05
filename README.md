@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jumanahj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jumanahj/Leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/jumanahj/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/jumanahj/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jumanahj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jumanahj/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/jumanahj/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jumanahj/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/jumanahj/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
