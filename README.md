@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/jumanahj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jumanahj/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/jumanahj/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1975-maximum-matrix-sum](https://github.com/jumanahj/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/jumanahj/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/jumanahj/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jumanahj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
+| [1975-maximum-matrix-sum](https://github.com/jumanahj/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jumanahj/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/jumanahj/Leetcode/tree/master/1448-maximum-69-number) |
+| [1975-maximum-matrix-sum](https://github.com/jumanahj/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2578-split-with-minimum-sum](https://github.com/jumanahj/Leetcode/tree/master/2578-split-with-minimum-sum) |
 ## Tree
 |  |
