@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jumanahj/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/jumanahj/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jumanahj/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/jumanahj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jumanahj/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/jumanahj/Leetcode/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/jumanahj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/jumanahj/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jumanahj/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jumanahj/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jumanahj/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/jumanahj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [1975-maximum-matrix-sum](https://github.com/jumanahj/Leetcode/tree/master/1975-maximum-matrix-sum) |
