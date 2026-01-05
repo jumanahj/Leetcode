@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/jumanahj/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jumanahj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/jumanahj/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jumanahj/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jumanahj/Leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/jumanahj/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/jumanahj/Leetcode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/jumanahj/Leetcode/tree/master/0704-binary-search) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/jumanahj/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
