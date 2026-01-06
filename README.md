@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jumanahj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/jumanahj/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jumanahj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jumanahj/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jumanahj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jumanahj/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jumanahj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/jumanahj/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jumanahj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jumanahj/Leetcode/tree/master/0189-rotate-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jumanahj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jumanahj/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/jumanahj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/jumanahj/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jumanahj/Leetcode/tree/master/0213-house-robber-ii) |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/jumanahj/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/jumanahj/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1661-average-time-of-process-per-machine](https://github.com/jumanahj/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jumanahj/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
