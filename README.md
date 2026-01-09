@@ -190,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/jumanahj/Leetcode/tree/master/0547-number-of-provinces) |
 | [0904-leaf-similar-trees](https://github.com/jumanahj/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jumanahj/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/jumanahj/Leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jumanahj/Leetcode/tree/master/0053-maximum-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jumanahj/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jumanahj/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
