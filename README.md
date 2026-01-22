@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/jumanahj/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jumanahj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jumanahj/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jumanahj/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/jumanahj/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jumanahj/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jumanahj/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jumanahj/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jumanahj/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/jumanahj/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/jumanahj/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jumanahj/Leetcode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/jumanahj/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/jumanahj/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
 | ------- |
