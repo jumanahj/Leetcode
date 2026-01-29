@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/jumanahj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/jumanahj/Leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jumanahj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
