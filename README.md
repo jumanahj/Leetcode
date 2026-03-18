@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/jumanahj/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/jumanahj/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/jumanahj/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jumanahj/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/jumanahj/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/jumanahj/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/jumanahj/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jumanahj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jumanahj/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jumanahj/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/jumanahj/Leetcode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/jumanahj/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/jumanahj/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jumanahj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
