@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jumanahj/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/jumanahj/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1975-maximum-matrix-sum](https://github.com/jumanahj/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jumanahj/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2195-time-needed-to-buy-tickets](https://github.com/jumanahj/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/jumanahj/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2634-minimum-common-value](https://github.com/jumanahj/Leetcode/tree/master/2634-minimum-common-value) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/jumanahj/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/jumanahj/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jumanahj/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jumanahj/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2578-split-with-minimum-sum](https://github.com/jumanahj/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/jumanahj/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
