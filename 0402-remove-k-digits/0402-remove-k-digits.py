@@ -26,9 +26,7 @@ class Solution:
             stack.append(x)
 
         stack = stack[:len(stack)-k]
-
         result = ''.join(stack)
-
         return result.lstrip('0') or "0"
                 
                 
