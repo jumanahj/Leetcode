@@ -1,5 +1,21 @@
 class Solution:
     def minMovesToMakePalindrome(self, s: str) -> int:
+        s = list(s)
+        res = 0
+
+        while s:
+            i = s.index(s[-1])
+
+            if i == len(s) - 1:
+                res += i // 2
+            else:
+                res += i
+                s.pop(i)
+
+            s.pop()
+
+        return res
+        '''
         s=list(s)
         left=0
         right=len(s)-1
@@ -24,3 +40,5 @@ class Solution:
                 left+=1
                 right-=1
         return moves
+
+        '''
