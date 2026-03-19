@@ -15,13 +15,4 @@ class Solution:
             else :
                 return nums[i]
         return nums[-1]
-
-        from typing import List
-
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        result = 0
-        for num in nums:
-            result ^= num
-        return result
         '''
