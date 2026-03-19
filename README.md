@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jumanahj/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/jumanahj/Leetcode/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/jumanahj/Leetcode/tree/master/0482-license-key-formatting) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jumanahj/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/jumanahj/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/jumanahj/Leetcode/tree/master/0735-asteroid-collision) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jumanahj/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Interactive
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jumanahj/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/jumanahj/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/jumanahj/Leetcode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/jumanahj/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/jumanahj/Leetcode/tree/master/1448-maximum-69-number) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jumanahj/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/jumanahj/Leetcode/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
