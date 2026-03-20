@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/jumanahj/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/jumanahj/Leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/jumanahj/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/jumanahj/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jumanahj/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/jumanahj/Leetcode/tree/master/0704-binary-search) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jumanahj/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jumanahj/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/jumanahj/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/jumanahj/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [1975-maximum-matrix-sum](https://github.com/jumanahj/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/jumanahj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/jumanahj/Leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/jumanahj/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/jumanahj/Leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/jumanahj/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/jumanahj/Leetcode/tree/master/1642-water-bottles) |
