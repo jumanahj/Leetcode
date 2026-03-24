@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jumanahj/Leetcode/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jumanahj/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/jumanahj/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/jumanahj/Leetcode/tree/master/0482-license-key-formatting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jumanahj/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jumanahj/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/jumanahj/Leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jumanahj/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
